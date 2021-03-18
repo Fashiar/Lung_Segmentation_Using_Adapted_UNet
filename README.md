@@ -18,3 +18,8 @@ We used the Montgomery County X-ray Set, which is a public dataset.
 One can access the entire dataset from the following link:
 
 https://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33
+
+
+You can access the paper using the following link:
+
+https://doi.org/10.1117/12.2581882
